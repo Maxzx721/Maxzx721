@@ -1,17 +1,12 @@
 ### Hi there 👋
-My name is Max.
+My name is Max.   
+I am currently a sophomore in computer science at The Chinese University of Hong Kong.
 
-<!--
-**Maxzx721/Maxzx721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my personal project.
+- 🌱 I’m currently learning different programming language to have fun!
+- 👯 I’m looking to collaborate on anyt project I come up with.
+- 🤔 I’m looking for help with my personal project
+- 💬 Ask me about anything.
+- 📫 How to reach me: Email / Linkedin.
+- 😄 Pronouns: Him.
+- ⚡ Fun fact: I love problem solving.
