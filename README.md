@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Max.   
-I am currently a sophomore in computer science at The Chinese University of Hong Kong.
+I am currently a Year 3 computer science student at The Chinese University of Hong Kong.
 
 - 🔭 I’m currently working on my personal project.
 - 🌱 I’m currently learning different programming language to have fun!
