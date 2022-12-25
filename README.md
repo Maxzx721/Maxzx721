@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A junior computer science student at The Chinese University of Hong Kong.</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/70191060/209461907-d8689190-f109-4dd4-bab8-9fff2d04ec42.gif">
 
 - 🔭 I’m currently working on **my personal project.**
 
